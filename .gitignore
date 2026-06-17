@@ -1,0 +1,35 @@
+# Node
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Tests
+coverage/
+
+# Temp
+tmp/
+temp/
+
+# Other
+dist/
+build/
